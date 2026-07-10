@@ -1,0 +1,44 @@
+# ==========================================
+# 1. Pretrained Weights & Checkpoints
+# ==========================================
+*.pth
+*.pt
+*.pt.*
+*.npy
+checkpoints/
+
+# ==========================================
+# 2. LaTeX Source & Compilation Files
+# ==========================================
+*.tex
+*.pdf
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.xml
+*-blx.bib
+
+# ==========================================
+# 3. Python Caches & Environments
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# ==========================================
+# 4. IDEs & Editors
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo
