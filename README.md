@@ -80,6 +80,7 @@ To validate the generalizability of HGA, we deploy it on three technically ortho
 | **Co2SAM** (ViT-B, CT) | 81.15% | 81.44% | **+0.29%** | **83.26%** | **+2.11%** |
 | **ExCEL** (Multi-scale) | 76.40% | 77.50% | **+1.10%** | **78.90%** | **+2.50%** |
 | **DuPL** (Multi-scale) | 69.50% | 70.50% | **+1.00%** | **71.90%** | **+2.40%** |
+| **WeCLIP+** (Multi-scale) | 80.50% | 81.70% | **+1.20%** | **82.2%** | **+1.70%** |
 
 ---
 
